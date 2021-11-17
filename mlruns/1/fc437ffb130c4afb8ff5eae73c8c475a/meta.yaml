@@ -1,0 +1,15 @@
+artifact_uri: file:///home/victor/code/vlef96/TaxiFareModel/mlruns/1/fc437ffb130c4afb8ff5eae73c8c475a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: fc437ffb130c4afb8ff5eae73c8c475a
+run_uuid: fc437ffb130c4afb8ff5eae73c8c475a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637102177501
+status: 1
+tags: []
+user_id: unknown
